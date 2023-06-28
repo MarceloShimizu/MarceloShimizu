@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am an enthusiastic student of Business Information Technology at Red River College in Winnipeg, Canada. My passion for technology ignited long before my early encounters with the i386, and I have been captivated by its endless possibilities ever since. Seeking to expand my knowledge beyond practical experiences, I made the exciting decision to enroll in a comprehensive course that delves into essential technical areas. This course covers a wide range of subjects, including application development, database management, network administration, and web development. By immersing myself in these areas, I am determined to cultivate a solid foundation and pave the way for a successful career in the dynamic field of Information Technology.
+
+⚡ Fun fact: I was born on the same day as the release of MS-DOS
 <!--
 **MarceloShimizu/MarceloShimizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
