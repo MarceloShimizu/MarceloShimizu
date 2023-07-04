@@ -12,9 +12,15 @@
     <p align="justify">
         Seeking to expand my knowledge beyond practical experiences, I made the exciting decision to enroll in a comprehensive course that delves into essential technical areas. This course covers a wide range of subjects, including application development, database management, network administration, and web development. By immersing myself in these areas, I am determined to cultivate a solid foundation and pave the way for a successful career in the dynamic field of Information Technology.
     </p>
+    <br>
 </div>
 
-<hr>
+<div align="center">
+    <a href="https://github.com/MarceloShimizu">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloShimizu&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+    <br><br>
+</div>
 
 <div>
     <h3>Skills:</h3>
@@ -60,17 +66,8 @@
     <br><br>
 </div>
 
-<hr><br>
-
-<div align="center">
-    <a href="https://github.com/MarceloShimizu">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloShimizu&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-    <br><br>
-</div>
-
 <div align="left">
-    <p>📬 Connect with me on social media:</p>
+    <h3>📬 Connect with me on social media:</h3>
     <a href="https://www.linkedin.com/in/marceloshimizu/">
         <img src=https://icons.iconarchive.com/icons/alecive/flatwoken/48/Apps-Linkedin-icon.png alt="LinkedIn Logo">
     </a>
