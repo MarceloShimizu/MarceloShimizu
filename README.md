@@ -2,7 +2,6 @@
     <h2>Hi there 👋</h2>
     <br>
 </div>
-<hr>
 <div>
     <p align="justify">
         I am Marcelo, an enthusiastic student of Business Information Technology at Red River College in Winnipeg, Canada. 
@@ -15,7 +14,7 @@
     </p>
 </div>
 
-<hr><br>
+<hr>
 
 <div>
     <h3>Skills:</h3>
@@ -69,8 +68,6 @@
     </a>
     <br><br>
 </div>
-
-<hr><br>
 
 <div align="left">
     <p>📬 Connect with me on social media:</p>
