@@ -67,7 +67,7 @@
 </div>
 
 <div align="left">
-    <h3>📬 Connect with me on social media:</h3>
+    <h3>Connect with me at:</h3>
     <a href="https://www.linkedin.com/in/marceloshimizu/">
         <img src=https://icons.iconarchive.com/icons/alecive/flatwoken/48/Apps-Linkedin-icon.png alt="LinkedIn Logo">
     </a>
