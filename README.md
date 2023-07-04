@@ -26,7 +26,7 @@
         <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/mysql-workbench-icon.png" alt="MySQL Logo">
     </a>
     <a src="https://www.postgresql.org/">
-        <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreeSQL Logo">
+        <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL Logo">
     </a>
     <a src="https://www.sas.com/">
         <img width="48" src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/4428/original/Sas_Favicon.png" alt="SAS Logo">
