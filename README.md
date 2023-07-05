@@ -43,7 +43,7 @@
         <img width="48" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="CSharp Logo">
     </a>
     <a src="https://en.wikipedia.org/wiki/Machine_learning">
-        <img src="https://symbols.getvecta.com/stencil_258/1_amazon-comprehend.03f6ce9882.svg" alt="Machine Learning Logo">
+        <img width="48" src="https://symbols.getvecta.com/stencil_258/1_amazon-comprehend.03f6ce9882.svg" alt="Machine Learning Logo">
     </a>
     <a src="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
         <img src="https://img.icons8.com/ios-filled/50/228BE6/c-sharp-logo.png" alt="CSharp Logo">
