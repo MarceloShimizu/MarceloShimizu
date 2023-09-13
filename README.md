@@ -17,11 +17,11 @@
 
 <div align=center style="display: flex;">
     <a href="https://github.com/MarceloShimizu">
-        <img height="150em" src="https://github-readme-stats-tau-gilt-54.vercel.app/api/top-langs/?username=MarceloShimizu&layout=compact&langs_count=20&theme=dracula"/>
+        <img height="160em" src="https://github-readme-stats-tau-gilt-54.vercel.app/api/top-langs/?username=MarceloShimizu&layout=compact&langs_count=20&theme=dracula"/>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/MarceloShimizu">
-        <img height="150em" src="https://github-readme-stats-tau-gilt-54.vercel.app/api?username=MarceloShimizu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats-tau-gilt-54.vercel.app/api?username=MarceloShimizu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
     <br><br>
 </div>
