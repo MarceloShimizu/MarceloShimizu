@@ -2,15 +2,15 @@
     <h2>Hi there 👋 </h2>
     <br>
 </div>
-<div>
+<div> 
     <p align="justify">
-        I am Marcelo, an enthusiastic student of Business Information Technology at Red River College in Winnipeg, Canada. 
-    </p>    
-    <p align="justify">
-        My passion for technology ignited long before my early encounters with the i386, and I have been captivated by its endless possibilities ever since. 
-    </p>    
-    <p align="justify">
-        Seeking to expand my knowledge beyond practical experiences, I made the exciting decision to enroll in a comprehensive course that delves into essential technical areas. This course covers a wide range of subjects, including application development, database management, network administration, and web development. By immersing myself in these areas, I am determined to cultivate a solid foundation and pave the way for a successful career in the dynamic field of Information Technology.
+        🎓 Business Information Technology graduate from Red River College Polytechnic | 📍 Based in Canada
+        🔍 Passionate about data science, software development, and digital transformation
+        💡 Bringing over a decade of experience in the financial industry, with 4+ years specializing in data analysis, automation, and full-stack development
+        🧠 Lifelong learner with MBAs in Information Security and People Management and a Bachelor's in Business Administration
+        💻 Proficient in Python, C#, .NET, SQL, React, Power BI, and cloud platforms (Azure, AWS)
+        🌱 Currently exploring Generative AI and Computer Vision
+        🤝 Open to collaboration and always eager to connect!
     </p>
     <br>
 </div>
