@@ -1,18 +1,18 @@
 <div>
-    <h2>Hi there 👋 </h2>
+    <h2>👋 Hi there! I'm Marcelo Shimizu </h2>
     <br>
 </div>
-<div> 
-    <p align="justify">
-        🎓 Business Information Technology graduate from Red River College Polytechnic | 📍 Based in Canada
-        🔍 Passionate about data science, software development, and digital transformation
-        💡 Bringing over a decade of experience in the financial industry, with 4+ years specializing in data analysis, automation, and full-stack development
-        🧠 Lifelong learner with MBAs in Information Security and People Management and a Bachelor's in Business Administration
-        💻 Proficient in Python, C#, .NET, SQL, React, Power BI, and cloud platforms (Azure, AWS)
-        🌱 Currently exploring Generative AI and Computer Vision
-        🤝 Open to collaboration and always eager to connect!
-    </p>
-    <br>
+<div>
+  <p align="justify">
+    🎓 <strong>Business Information Technology graduate</strong> from Red River College Polytechnic<br>
+    📍 Based in <strong>Canada</strong><br><br>
+    🔍 <strong>Passionate</strong> about data science, software development, and digital transformation<br>
+    💡 Bringing <strong>10+ years of experience</strong> in the financial industry, with <strong>4+ years</strong> in data analysis, automation, and full-stack development<br>
+    🧠 <strong>Lifelong learner</strong> with MBAs in Information Security and People Management, and a Bachelor's in Business Administration<br>
+    💻 Skilled in <strong>Python, C#, .NET, SQL, React, Power BI</strong>, and <strong>cloud platforms</strong> like Azure and AWS<br>
+    🌱 Currently exploring <strong>Generative AI</strong> and <strong>Computer Vision</strong><br>
+    🤝 Open to collaboration and always eager to connect!<br><br>
+  </p>
 </div>
 
 <div align=center style="display: flex;">
