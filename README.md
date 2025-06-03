@@ -1,18 +1,32 @@
 <div>
-    <h2>👋 Hi there! I'm Marcelo Shimizu </h2>
+    <h2>🧑‍💻 Hi there! I'm Marcelo Shimizu </h2>
     <br>
 </div>
 <div>
-  <p align="justify">
-    🎓 <strong>Business Information Technology graduate</strong> from Red River College Polytechnic<br>
-    📍 Based in <strong>Canada</strong><br><br>
-    🔍 <strong>Passionate</strong> about data science, software development, and digital transformation<br>
-    💡 Bringing <strong>10+ years of experience</strong> in the financial industry, with <strong>4+ years</strong> in data analysis, automation, and full-stack development<br>
-    🧠 <strong>Lifelong learner</strong> with MBAs in Information Security and People Management, and a Bachelor's in Business Administration<br>
-    💻 Skilled in <strong>Python, C#, .NET, SQL, React, Power BI</strong>, and <strong>cloud platforms</strong> like Azure and AWS<br>
-    🌱 Currently exploring <strong>Generative AI</strong> and <strong>Computer Vision</strong><br>
-    🤝 Open to collaboration and always eager to connect!<br><br>
-  </p>
+    <p align="justify">
+        Hey! I’m Marcelo — a Full Stack Developer who loves building clean, scalable solutions that make life (and work) simpler.
+        I come from a background in business strategy and data analytics, but my real passion is solving real-world problems with code.
+    </p>
+    <p align="justify">
+        Whether it’s automating repetitive tasks, building a dashboard that actually makes sense, or integrating 
+        generative AI to speed things up, I’m all about making systems smarter and more human-friendly.
+    </p>
+    <p align="justify">
+        In past projects, I’ve:
+    </p>
+    <ul>
+        <li>Built full stack apps using React, Node.js, Python and .NET</li>
+        <li>Automated multi-source ETL pipelines with clean reporting</li>
+        <li>Integrated OpenAI APIs to auto-generate reports and summaries</li>
+        <li>Reduced processing time from days to minutes with smart automation</li>
+    </ul>
+    <p align="justify">
+        Now based in Canada, I’m excited to collaborate on projects that mix tech and purpose. If your idea involves solving real problems (not just writing fancy code), I’m probably in.
+    </p>
+    <p align="justify">
+        Let’s build something useful.
+    </p>
+    <br>
 </div>
 
 <div align=center style="display: flex;">
