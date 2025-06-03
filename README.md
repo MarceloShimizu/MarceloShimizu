@@ -88,7 +88,7 @@
         <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI Logo">
     </a>
     <a src="https://www.sas.com/">
-        <img width="48" src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/4428/original/Sas_Favicon.png" alt="SAS Logo">
+        <img width="48" src="sas_logo_icon_170761.png" alt="SAS Logo">
     </a>
     <a src="https://en.wikipedia.org/wiki/Machine_learning">
         <img width="48" src="https://symbols.getvecta.com/stencil_258/1_amazon-comprehend.03f6ce9882.svg" alt="Machine Learning Logo">
